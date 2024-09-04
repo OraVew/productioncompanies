@@ -139,7 +139,7 @@ function CheckoutForm({ name, email, phone, pricingOption, startTime, eventType 
         onClick={handleVirtualTour}
         className="virtual-tour-button"
       >
-        Schedule an Event Consultation Instead
+        Schedule a Shoot Consultation Instead
       </button>
     </form>
   );
