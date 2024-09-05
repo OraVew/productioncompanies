@@ -1,6 +1,6 @@
 // pages/api/proxy.js
 export default async function handler(req, res) {
-    const response = await fetch('https://hooks.zapier.com/hooks/catch/17285769/26vc7il/', {
+    const response = await fetch('https://hooks.zapier.com/hooks/catch/17285769/2te73h3/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
